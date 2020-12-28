@@ -8,7 +8,6 @@ import {Space} from "../../model/space";
 import {Organization} from "../../model/organization";
 import {LangChangeEvent, TranslateService} from "@ngx-translate/core";
 import {isNullOrUndefined, isUndefined} from "util";
-import {CommonService} from '../../common/common.service';
 declare var $: any;
 declare var jQuery: any;
 
